@@ -36,7 +36,7 @@
     "fastify-cookie": "^4.0.0",
     "nyc": "^15.0.0",
     "request": "^2.88.0",
-    "standard": "^14.0.0",
+    "standard": "^16.0.3",
     "typescript": "^3.4.5"
   },
   "types": "types/types.d.ts",
